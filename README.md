@@ -3,7 +3,7 @@
 **SoulScript** is a simple and calming wellness app that helps users track their mood, write daily journal entries, and relax with soothing sleep stories. Built using **Flutter** and **Dart**, with **Firebase** for secure storage and authentication.
 
 <p align="center">
-  <img src="Logo/SoulScript_logo.png" alt="SoulScript Logo" width="200">
+  <img src="SoulScript_logo.png" alt="SoulScript Logo" width="200">
 </p>
 
 ## ✨ Features
